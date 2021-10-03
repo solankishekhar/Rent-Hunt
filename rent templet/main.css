@@ -1,0 +1,11 @@
+body{
+    background-image: url("https://stewardproperties.files.wordpress.com/2020/04/rental-home.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    width: 1000px;
+}   
+.d-grid{
+    margin-top: 10px;
+    margin-right: -500px;
+}

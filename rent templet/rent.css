@@ -1,0 +1,18 @@
+body{
+    background-image: url('https://www.pngmart.com/files/5/Rent-PNG-Picture.png');
+    background-repeat: no-repeat;   
+}
+#maindiv{
+    width: 35%;
+    height: 400px;
+    border: 2px solid gray;
+    float: right;
+    margin-right: 25px;
+    margin-top: 150px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#form-floating{
+    margin-top: 20px;
+    width: 80%;
+    margin-left: 20px;
+}
